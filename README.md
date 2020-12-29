@@ -28,7 +28,7 @@ Token is provided with the request:
 Endpoints for viewing and manipulating the Accounts that the Authenticated User
 has permissions to access.
 
-* [Create Account](accounts/post.md) : `POST /auth/users/`
+* [Create Account](authapp/post.md) : `POST /auth/users/`
 
 ### Journal related
 
