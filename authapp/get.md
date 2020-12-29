@@ -6,7 +6,7 @@ Used to collect current user info for autherized users
 
 **Method** : `GET PUT DELETE`
 
-##GET
+## GET
 
 **Auth required** : YES
 
