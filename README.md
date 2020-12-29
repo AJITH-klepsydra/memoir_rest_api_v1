@@ -44,5 +44,5 @@ has permissions to access.
 Endpoints for viewing and manipulating the Notes that the Authenticated User
 has permissions to access.
 
-* [Create or Get All Notes](accounts/post.md) : `GET POST notes/`
-* [Individual note](accounts/indnotes.md) : `GET PUT DELETE notes/<int:id>/`
+* [Create or Get All Notes](notes/post.md) : `GET POST notes/`
+* [Individual note](notes/indnotes.md) : `GET PUT DELETE notes/<int:id>/`
