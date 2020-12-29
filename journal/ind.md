@@ -1,6 +1,6 @@
-# Accessing individual journal/notes entries
+# Accessing individual journal/diary entries
 
-Used to get put and delete individual journal/notes
+Used to get put and delete individual journal/diary
 
 **URL** : `/journal/<int id>/`
 
