@@ -35,9 +35,9 @@ has permissions to access.
 Endpoints for viewing and manipulating the journal that the Authenticated User
 has permissions to access.
 
-* [Create or Get All journals and diaries](accounts/post.md) : `GET POST journal/`
-* [Individual journal/diaries](accounts/post.md) : `GET PUT DELETE journal/<int:id>/`
-* [Categorised list](accounts/post.md) : `GET journal/category/<str:val>/`
+* [Create or Get All journals and diaries](journal/post.md) : `GET POST journal/`
+* [Individual journal/diaries](journal/ind.md) : `GET PUT DELETE journal/<int:id>/`
+* [Categorised list](journal/cat.md) : `GET journal/category/<str:val>/`
 
 ### Notes  related
 
