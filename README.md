@@ -9,7 +9,7 @@ Build with django, django restframework and djoser this api allow clients to pos
 Open endpoints require no Authentication.
 
 * [Login](login.md) : `POST /auth/token/login/`
-* [CheckServerTime](login.md) : `GET /checkserver/`
+* [CheckServerTime](checkserver.md) : `GET /checkserver/`
 
 ## Endpoints that require Authentication
 
