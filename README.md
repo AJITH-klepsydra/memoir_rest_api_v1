@@ -23,7 +23,6 @@ Token is provided with the request:
 
 * [Show info](authapp/get.md) : `GET users/me/`
 * [Update info](authapp/put.md) : `PUT users/me/`
-* [Delete user](authapp/del.md) : `DELETE users/me/`
 ### Account related
 
 Endpoints for viewing and manipulating the Accounts that the Authenticated User
