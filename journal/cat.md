@@ -2,8 +2,8 @@
 
 Used to get list of journals/nots 
 
-**URL** : `journal/category/<str:val>`
-<b color="red">d-> diaries j-> journals</b>
+**URL** : `journal/category/<str:val>`<br>
+<i>d-> diaries j-> journals/i><br>
 **Method** : `GET`
 
 **Auth required** : YES
