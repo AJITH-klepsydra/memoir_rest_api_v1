@@ -2,8 +2,7 @@
 
 Build with django, django restframework and djoser this api allow clients to post and retrieve journals.
 
-Where full URLs are provided in responses they will be rendered as if service
-is running on 'https://memoir-api-v1.herokuapp.com/'.
+'https://memoir-api-v1.herokuapp.com/'.
 
 ## Open Endpoints
 
@@ -39,7 +38,7 @@ has permissions to access.
 
 * [Create or Get All journals and diaries](accounts/post.md) : `GET POST journal/`
 * [Individual journal/diaries](accounts/post.md) : `GET PUT DELETE journal/<int:id>/`
-* [Categorised list](accounts/post.md) : `GET journal/category/<str:val>`
+* [Categorised list](accounts/post.md) : `GET journal/category/<str:val>/`
 
 ### Notes  related
 
