@@ -3,7 +3,7 @@
 Used to get list of journals/nots 
 
 **URL** : `journal/category/<str:val>`<br>
-<i>d-> diaries j-> journals/i><br>
+<i>d-> diaries j-> journals</i><br>
 **Method** : `GET`
 
 **Auth required** : YES
